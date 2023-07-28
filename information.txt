@@ -1,0 +1,24 @@
+
+To Run the Server :
+===================
+
+First of all open cmd
+
+Enter the Drive where the project folder is located like - d: Enter
+
+Enter the project folder like - cd Xampp\htdocs\Chat_App_with_Ratchet_and_AJAX Enter
+
+To Run the server - php bin\chat-server.php
+
+
+Sample User Login Info :
+========================
+
+Username - haldersumanta24@gmail.com
+Password - sumanta
+
+Username - sourav@yahoo.com
+Password - sourav
+
+Username - subir@gmail.com
+Password - subir
